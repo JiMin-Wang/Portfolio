@@ -88,7 +88,7 @@
    max-width: 100%;
    opacity: .8;
    background: 
-   linear-gradient( 180deg,rgba(112,93,80,.8) 0,rgba(112,93,80,.8) 90%),url(/assets/img/background.jpg) 50% no-repeat;
+   linear-gradient( 180deg,rgba(112,93,80,.8) 0,rgba(112,93,80,.8) 90%),url(/Portfolio/assets/img/background.jpg) 50% no-repeat;
    /* linear-gradient(180deg ,rgba(112,93,80,.8) 0,rgba(112,93,80,.8) 90%),url(/images/background.jpg) 50% no-repeat; */
    z-index: -1;
    /* background-image: url("assets/img/배경.jpg"); */
